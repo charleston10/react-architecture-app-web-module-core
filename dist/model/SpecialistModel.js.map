@@ -1,0 +1,1 @@
+{"version":3,"file":"SpecialistModel.js","sourceRoot":"","sources":["../../src/model/SpecialistModel.ts"],"names":[],"mappings":"AAEA,MAAM,OAAO,eAAe;IAMxB,YAAY,IAAY,EAAE,WAAmB,EAAE,QAAgB,EAAE,OAA8B;QAC3F,IAAI,CAAC,IAAI,GAAG,IAAI,CAAC;QACjB,IAAI,CAAC,WAAW,GAAG,WAAW,CAAC;QAC/B,IAAI,CAAC,QAAQ,GAAG,QAAQ,CAAC;QACzB,IAAI,CAAC,OAAO,GAAG,OAAO,CAAC;IAC3B,CAAC;CACJ"}
